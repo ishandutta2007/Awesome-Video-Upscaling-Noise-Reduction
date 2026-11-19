@@ -130,6 +130,7 @@ If you find this curated directory useful for your research, production pipeline
 
 ##  Star History
 #[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Video-Upscaling-Noise-Reduction&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Video-Upscaling-Noise-Reduction&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Video-Upscaling-Noise-Reduction&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Video-Upscaling-Noise-Reduction&type=date&legend=top-left)
 
 ---
 
