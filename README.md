@@ -120,11 +120,12 @@ Contributions to expand and update this directory are warmly welcome! To contrib
 
 ## 💖 Support & Sponsorship
 
-If you find this curated directory useful for your research, production pipelines, or media engineering workflows:
+Thank you for visiting and using this project! If you find this curated directory useful for your research, production pipelines, or media engineering workflows, please consider supporting the project:
 
-- ⭐ **Star this repository** on GitHub to help other engineers find it!
-- 📢 **Share it** with video processing communities, Reddit, and Discord.
-- ☕ **Sponsor the Maintainer**: Support ongoing open-source research and ecosystem maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+- ⭐ **Star this repository** on GitHub to help other engineers discover it!
+- 🍴 **Fork it** to add your own customizations, benchmarks, or pipeline notes.
+- 📢 **Share it** with video processing communities, Reddit, X (Twitter), and Discord.
+- ☕ **Buy a Coffee / Sponsor**: Support ongoing open-source research and ecosystem maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
