@@ -73,9 +73,9 @@ The following table catalogs premier hosted SaaS platforms and developer APIs fo
 
 ## 💻 Open-Source Repositories & Neural Models
 
-Curated list of open-source video super-resolution architectures, deep learning denoisers, frame interpolators, and enhancement workbenches, sorted strictly by GitHub stars (descending):
+Curated list of open-source video super-resolution architectures, deep learning denoisers, frame interpolators, and enhancement workbenches, sorted strictly by GitHub_Stars (descending):
 
-| Project & Repository | Stars | Primary Focus & Architecture | Description & Core Capabilities |
+| Project & Repository | GitHub_Stars | Primary Focus & Architecture | Description & Core Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[Upscayl](https://github.com/upscayl/upscayl)** | [![Upscayl Stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white)](https://github.com/upscayl/upscayl/stargazers) | Cross-Platform Desktop GUI | Top open-source AI image and batch frame upscaler for Linux, macOS, and Windows powered by Vulkan NCNN and Real-ESRGAN. |
 | **[GFPGAN](https://github.com/TencentARC/GFPGAN)** | [![GFPGAN Stars](https://img.shields.io/github/stars/TencentARC/GFPGAN?style=social&color=white)](https://github.com/TencentARC/GFPGAN/stargazers) | Blind Face Restoration GAN | Tencent ARC's practical algorithm for restoring real-world degraded, blurred, and low-res faces in video streams and images. |
@@ -111,8 +111,8 @@ Contributions to expand and update this directory are warmly welcome! To contrib
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/add-new-vsr-engine`.
-3. 📝 Add your tool to either the **SaaS Table** or the **Open-Source Table** ensuring exact pricing, free tier limits, star badges, and repositories are verified.
-4. 🔢 Ensure the open-source table remains sorted by **GitHub Stars (descending)**.
+3. 📝 Add your tool to either the **SaaS Table** or the **Open-Source Table** ensuring exact pricing, free tier limits, Stars_Badges, and repositories are verified.
+4. 🔢 Ensure the open-source table remains sorted by **GitHub_Stars (descending)**.
 5. 🚀 Commit your changes: `git commit -m 'feat: add <tool-name>'`.
 6. 📬 Submit a clean **Pull Request**.
 
